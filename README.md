@@ -3,9 +3,13 @@
 <h3 align="center">Deep Learning Enthusiast | ML Developer | Passionate about pushing the boundaries of AI and building impactful solutions</h3>
 
 - 🔭 I’m currently pursuing my Masters in Data Science at Stony Brook University
+  
 - 🌱 I’m currently learning parallel computing, Building scalable Deep Learning systems, Data Visualizations and Dynamic Programming
+  
 - 💬 Ask me about CNNs, DNNs, OpenCV, Python, Machine Learning and Astrology
+  
 - 📫 How to reach me: mouryavsvp@gmail.com
+  
 - ⚡ Fun fact: When I'm not diving into the world of ML and coding, you'll find me engaging in thrilling chess battles as an International FIDE-rated chess player and a university chess champion.
 
 <h3 align="left">Languages and Tools:</h3>
