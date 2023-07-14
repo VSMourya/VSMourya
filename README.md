@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm VS Mourya</h1>
 <h3 align="center">Deep Learning Enthusiast | ML Developer | Passionate about pushing the boundaries of AI and building impactful solutions</h3>
 
-- 🔭 I’m currently pursuing my Masters in Data Science at Stony Brook University
+- 🔭 I’m currently pursuing my Masters in **Data Science** at **Stony Brook University**
   
-- 🌱 I’m currently learning parallel computing, Building scalable Deep Learning systems, Data Visualizations and Dynamic Programming
+- 🌱 I’m currently learning **parallel computing, Building scalable Deep Learning systems, Data Visualizations and Dynamic Programming**
   
-- 💬 Ask me about CNNs, DNNs, OpenCV, Python, Machine Learning and Astrology
+- 💬 Ask me about **CNNs, DNNs, OpenCV, Python, Machine Learning and Astrology**
   
 - 📫 How to reach me: mouryavsvp@gmail.com
   
