@@ -8,7 +8,7 @@
   
 - 💬 Ask me about **CNNs, DNNs, OpenCV, Python, Machine Learning and Astrology**
   
-- 📫 How to reach me: mouryavsvp@gmail.com
+- 📫 How to reach me: vangalasriniva.chandramourya@stonybrook.edu
   
 - ⚡ Fun fact: When I'm not diving into the world of ML and coding, you'll find me engaging in thrilling chess battles as an International FIDE-rated chess player and a university chess champion.
 
