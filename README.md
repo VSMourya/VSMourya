@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning **parallel computing, Building scalable Deep Learning systems, Data Visualizations and Dynamic Programming**
   
-- 💬 Ask me about **CNNs, DNNs, OpenCV, Python, Machine Learning and Astrology**
+- 💬 Ask me about **CNNs, DNNs, OpenCV, CUDA, Python, Machine Learning or simply about Astrology**
   
 - 📫 How to reach me: vangalasriniva.chandramourya@stonybrook.edu
   
